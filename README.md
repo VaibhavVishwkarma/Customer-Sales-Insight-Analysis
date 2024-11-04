@@ -48,12 +48,23 @@ The analysis provides actionable insights for businesses to refine strategies, t
 ## 🎥 Video Showcase
 A quick video tour of the analysis and visualizations is available, showcasing the findings and insights.
 
----
 
-### 📂 Project Structure
-- `data/`: Contains the raw customer sales data.
-- `Dashboard Video/`: Contains the video tour of the dashboards and analyses.
+https://github.com/user-attachments/assets/719a7aa3-b1e3-42bd-b928-9d0a92b4ae91
+
+
+
+
+
+### 📂 Project Files
+
+- **Project Report**: [Customer Sales Insight Analysis Report (PDF)](https://github.com/user-attachments/files/17622427/Customer_Sales_Insight_Analysis_Report.pdf)  
+  A detailed report containing insights, visualizations, and analysis results.
+
+- **Project Dataset**: [Sales Data (Excel)](https://github.com/user-attachments/files/17622429/sales_data.xlsx)  
+  The raw dataset used for analysis, including customer demographics, sales trends, and payment preferences.
+
 - `README.md`: Project overview and insights.
+
 
 ---
 
