@@ -69,7 +69,9 @@ https://github.com/user-attachments/assets/719a7aa3-b1e3-42bd-b928-9d0a92b4ae91
 ---
 
 ### 📞 Contact
-For questions or collaboration opportunities, reach out via email: vaibhavvishwkarma167@gmail.com
+For questions or collaboration opportunities, reach out via email: [vaibhavvishwkarma167@gmail.com](mailto:vaibhavvishwkarma167@gmail.com)
 
 ---
-# Customer-Sales-Insight-Analysis
+
+Thank you for exploring the **Customer Sales Insight Analysis** project!
+
